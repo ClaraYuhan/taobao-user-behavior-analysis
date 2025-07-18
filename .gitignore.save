@@ -1,0 +1,40 @@
+# macOS 系统自动生成的无用文件
+.DS_Store
+._*
+
+# VS Code 配置文件（如有需要你可以手动加回来）
+.vscode/
+
+# Python 虚拟环境（如未来添加 Python 分析）
+venv/
+env/
+__pycache__/
+
+# 不上传原始数据，太大 + 可能含隐私
+data/raw/
+*.csv
+
+# 中间分析产物、缓存、不需要版本控制的输出
+output/
+*.log
+*.tmp
+
+# Tableau 或 Navicat 的缓存文件（避免误传）
+*.twb
+*.twbx
+*.bak
+*.tmp
+
+# 不跟踪系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Git 自动生成的 merge 文件
+*.orig
+
+# 日志类
+*.log
+
+# MySQL 导出的临时文件
+*.sql~

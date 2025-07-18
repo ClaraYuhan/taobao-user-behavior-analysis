@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+*.egg-info/
+
+# VSCode settings
+.vscode/
+
+# Mac 系统文件
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.zip
+
+# Logs
+*.log
+
+# Python backups
+*.bak
+
+# Conda environment file (optional)
+conda-meta/
+
+# MySQL dumps or data backups
+*.sql
+*.dump
