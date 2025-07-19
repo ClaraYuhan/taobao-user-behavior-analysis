@@ -38,3 +38,4 @@ conda-meta/
 # MySQL dumps or data backups
 *.sql
 *.dump
+.DS_Store
