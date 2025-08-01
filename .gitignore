@@ -41,3 +41,9 @@ conda-meta/
 .DS_Store
 
 visualizations/
+
+data/
+output/
+*.csv
+*.zip
+.DS_Store
