@@ -47,3 +47,5 @@ output/
 *.csv
 *.zip
 .DS_Store
+
+data/raw/
