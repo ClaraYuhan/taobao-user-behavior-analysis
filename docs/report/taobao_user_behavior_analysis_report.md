@@ -42,7 +42,7 @@
 
 ### 4.1.1 总体规模统计
 #### 【图4.1.1】总体概览
-![图4.1.1 总体概览](output/images/4.1_overview/4.1.1_overview_total_count.png)
+![图4.1.1 总体概览](/output/images/4.1_overview/4.1.1_overview_total_count.png)
 总行为数：100,095,182 条
 总用户数：987,991 人
 总商品数：4,161,138 个
@@ -52,7 +52,7 @@
 
 ### 4.1.2 行为类型分布
 #### 【图4.1.2】用户行为类型分布
-![图4.1.2 用户行为类型分布](output/images/4.1_overview/4.1.2_behavior_type_ratio.png)
+![图4.1.2 用户行为类型分布](/output/images/4.1_overview/4.1.2_behavior_type_ratio.png)
 
 | 行为类型     | 行为数量     | 占比     |
 |------------|------------|----------|
